@@ -56,7 +56,7 @@ SQL에 있어 릴레이션에 해당하는 것은 테이블이다.
 - 본체는 속성값의 집합인 행 또는 영어로 튜플(tuple)의 집합이다.
 - 튜플에 포함된 속성값은 이름과 데이터 형이 제목에서 지정한 것과 서로 일치하지 않으면 안된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f7a668d-1204-4ce5-ae14-e04e35ddcfd3/Untitled.png)
+![image](https://user-images.githubusercontent.com/43159295/187943864-d8eb205c-b10a-4aeb-8733-29ef2e3c3aaa.png)
 
 ### 집합이란
 
@@ -135,7 +135,7 @@ NULL은 값이 아니라 요소가 무엇인지 모르는, 알 수 없는 값임
 8. 곱집합(Product)
     - 두 개의 릴레이션에 있는 튜플을 각각 조합한 릴레이션 반환
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bd52dd9-15f6-4e10-90c0-99f9877704f3/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/43159295/187943931-0a3f7217-e786-4baa-8225-12ee324f69ce.png)
     
 9. 결합 (Join)
     - 공통된 속성을 가진 두 개의 릴레이션에서 공통된 속성값이 같은 튜플끼리 조합된 릴레이션 반환
