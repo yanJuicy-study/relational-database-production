@@ -14,7 +14,7 @@
 
 명제 P와 Q에 대해 연결자를 사용한 진리표는 다음과 같다.
 
-![스크린샷 2022-08-28 오후 10.02.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7dd151e-42b2-45bb-bebf-94ee54806418/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-08-28_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.02.17.png)
+![image](https://user-images.githubusercontent.com/94847468/192289664-40bf4e89-1604-458c-9448-cccb94637f25.png)
 
 동어반복.
 
